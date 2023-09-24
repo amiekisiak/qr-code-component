@@ -1,12 +1,15 @@
-* { margin: 0; padding: 0;} 
-header,
-footer {
-    width: 100%;
-    height: 120px;
-    background-color: orangered;
-    color: black;
-} 
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
 
+body {
+
+  background-size: cover;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
 h1,
 h2 {
     text-align: center;
@@ -27,7 +30,8 @@ p {
     font-size: 30px;
   } 
   .card {
-    width: 80%;
+    width: 10%;
+    background-image: url("./images/image-qr-code.png");
     margin: 40px auto;
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
