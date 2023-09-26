@@ -12,11 +12,11 @@ The challenge was to build out this QR code component and get it looking as clos
 
 ## Deployment
 
-![gr-code-component](https://amiekisiak.github.io/qr-code-component/)
+[qr-code-component](https://amiekisiak.github.io/qr-code-component/)
 
 
 ## Screenshot
-![gr-code-component](./images/sh.png)
+![qr-code-component](./images/sh.png)
 
 ## License
 Licensed under MIT License.
