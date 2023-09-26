@@ -12,7 +12,7 @@ The challenge was to build out this QR code component and get it looking as clos
 
 ## Deployment
 
-![gr-code-component](https://pages.github.com/)
+![gr-code-component](https://amiekisiak.github.io/qr-code-component/)
 
 
 ## Screenshot
