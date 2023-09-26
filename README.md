@@ -3,7 +3,7 @@
 
 ## Welcome! 👋
 
-This front-end coding challenge.
+This is a front-end coding challenge.
 
 ## Description
 
